@@ -1,1 +1,1 @@
-# Alzhimer's Disease Dataset from Kaggle 
+# Alzheimer's Disease Dataset from Kaggle 
